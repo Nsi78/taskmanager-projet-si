@@ -29,4 +29,4 @@ Lancez le projet depuis votre IDE (fichier `TaskmanagerApplication.java`) ou via
 \`\`\`
 
 ---
-**Réalisé par :** Farell Akakpo / Eness Hicette / Matteo Betsch
+**Réalisé par :** Matteo Betsch / Eness Hicette / Farell Akakpo
